@@ -12,4 +12,4 @@ Finally it would be nice if it also generated invoices
 
 ## Modelling
 This model shows the MVP of this app
-![avo_model1][images/model_1.jpg]
+![avo_model1](https://github.com/kate102/avocargo/blob/master/images/model_1.jpg)
