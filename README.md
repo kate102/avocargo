@@ -8,6 +8,8 @@ On the morning of delivery day my friend and the driver meet at the warehouse. M
 ## User Stories
 My friend would like  a single ordering system that all of the clients could use
 He would also like this system to generate a list of orders based on delivery date
+Finally it would be nice if it also generated invoices
 
 ## Modelling
-
+This model shows the MVP of this app
+![avo_model1][images/model_1.jpg]
