@@ -6,10 +6,14 @@ Delivery days are Monday, Wednesday and Friday.
 On the morning of delivery day my friend and the driver meet at the warehouse. My friend provides a list of clients and their requirements that he has generated from the various communication methods and they load the van.
 
 ## User Stories
-My friend would like  a single ordering system that all of the clients could use
-He would also like this system to generate a list of orders based on delivery date
-Finally it would be nice if it also generated invoices
+- My friend would like  a single ordering system that all of the clients could use
+- He would also like this system to generate a list of orders based on delivery date
+- Finally it would be nice if it also generated invoices
 
 ## Modelling
 This model shows the MVP of this app
 ![avo_model1](https://github.com/kate102/avocargo/blob/master/images/model_1.jpg)
+
+## Tech
+I have decided to write this in `Javascript` and use `Jasmine` to TDD it.
+
